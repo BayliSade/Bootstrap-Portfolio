@@ -5,6 +5,20 @@
 .navbar-color {
     background-color: #f8bbd0;
 }
+
+.paragraph {
+    padding-top: 20px;
+}
+
+.button-style {
+    background-color: #f8bbd0;
+    border: #f8bbd0;
+}
+
+.button-style:hover {
+    background-color: #f48fb1;
+}
+
 .footer {
     position: absolute;
     bottom: 0;
