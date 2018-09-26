@@ -29,3 +29,7 @@
 footer {
     background-color: #f48fb1;
 }
+
+body .portfolio {
+    position: relative;
+}
