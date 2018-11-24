@@ -20,7 +20,6 @@
 }
 
 .footer {
-    position: absolute;
     bottom: 0;
     width: 100%;
     height: 60px;
@@ -32,10 +31,12 @@
 
 footer {
     background-color: #f48fb1;
+    position: fixed;
 }
 
 body .portfolio {
-    position: relative;
+    /* position: relative; */
+    padding-bottom: 40px;
 }
 
 .gallery-images {
